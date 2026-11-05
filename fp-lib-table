@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "APNI LIBRARY") (type "KiCad") (uri "${KIPRJMOD}/APNI LIBRARY.pretty") (options "") (descr ""))
+)
